@@ -1,3 +1,5 @@
+import { Html } from "next/document";
+import { root } from "postcss";
 import type { Config } from "tailwindcss";
 
 const config: Config = {
